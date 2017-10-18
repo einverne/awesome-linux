@@ -266,7 +266,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 #### Other Desktop Environments
 
-* [Cinnamon](http://cinnamon.linuxmint.com/) - Strives to provide a traditional user experience.
+* [Cinnamon](http://cinnamon.linuxmint.com/) - Strives to provide a traditional user experience. 提供类 Windows 的操作体验，关闭窗口按钮在右上方，我喜欢
 * [EDE](http://www.equinox-project.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
 * [LXQt](http://lxqt.org/) - Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
 * [MATE](http://www.mate-desktop.org/) - Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.
@@ -390,6 +390,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
 * [wavemon](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [you-get](https://github.com/soimort/you-get/) - A tool to download videos from different video site include youtube. 用来下载视频的工具
 
 ## Useful Websites
 
